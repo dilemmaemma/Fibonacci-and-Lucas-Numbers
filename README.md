@@ -10,11 +10,11 @@ This program calculates Fibonacci numbers up to 22 and Lucas numbers up to 20. I
 
 ## Theorems
 
-- \(Fibonacci_n = Fibonacci_{n - 1} + Fibonacci_{n - 2}\)
-- \(Lucas_n = Lucas_{n - 1} + Lucas_{n - 2}\)
-- Golden Ratio (\(\phi\)) = \(\frac{1 + \sqrt{5}}{2}\)
-  - \(\frac{Fibonacci_n}{Fibonacci_{n - 1}} \approx \phi\)
-  - \(\frac{Lucas_n}{Lucas_{n - 1}} \approx \phi\)
-  - \(\phi^n \approx \frac{Lucas_n + Fibonacci_n \cdot \sqrt{5}}{2}\)
-  - \(Lucas_{2n} = 5 \cdot (Fibonacci_n)^2 + 2 \cdot (-1)^{n - 1}\)
-  - \(\lim_{{x \to \infty}} \frac{Lucas_n}{Fibonacci_n} = \sqrt{5}\)
+- Fibonacci<sub>n</sub> = Fibonacci<sub>n - 1</sub> + Fibonacci<sub>n - 2</sub>
+- Lucas<sub>n</sub> = Lucas<sub>n - 1</sub> + Lucas<sub>n - 2</sub>
+- Golden Ratio (&phi;) = <math><mfrac><mrow><mi>1</mi><mo>+</mo><mn>&radic;5</mn></mrow><mrow><mo>2</mo></mrow></mfrac></math>
+  - <math><mfrac><mrow><mi><i>F</i></mi><mo><sub>n</sub></mo></mrow><mrow><mi><i>F</i><mo><sub>n - 1</sub></mo></mrow></mfrac></math> &cong; &phi;
+  - <math><mfrac><mrow><mi><i>L</i></mi><mo><sub>n</sub></mo></mrow><mrow><mi><i>L</i><mo><sub>n - 1</sub></mo></mrow></mfrac></math> &cong; &phi;
+  - &phi;<sup>n</sup> &cong; <math><mfrac><mrow><mi><i>L</i><sub>n</sub></mi><mo>+</mo><mn><i>F</i><sub>n</sub> * &radic;5</mn></mrow><mrow><mo>2</mo></mrow></mfrac></math>
+  - <i>L</i><sub>2n</sub> = 5(<i>F</i><sub>n</sub>)<sup>2</sup> + 2(-1)<sup><i>n - 1</i></sup>
+  - lim(<strong>x→∞</strong>) <math><mfrac><mrow><mo><i>L</i><sub>n</sub></mo></mrow><mrow><mo><i>F</i><sub>n</sub></mo></mrow></mfrac></math> = &radic;5
