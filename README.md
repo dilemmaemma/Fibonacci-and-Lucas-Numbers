@@ -18,4 +18,4 @@ This program calculates Fibonacci numbers up to 22 and Lucas numbers up to 20. I
 - <i>L</i><sub>n</sub> &frasl;<i>L</i><sub>n - 1</sub> &cong; &phi;
 - &phi;<sup>n</sup> &cong; (<i>L</i><sub>n</sub>+<i>F</i><sub>n</sub> * &radic;5) &frasl;2
 - <i>L</i><sub>2n</sub> = 5(<i>F</i><sub>n</sub>)<sup>2</sup> + 2(-1)<sup><i>n - 1</i></sup>
-- lim(<strong>x→∞</strong>) <i>L</i><sub>n</sub> &frasl;<i>F</i><sub>n</sub> = &radic;5
+- lim(<strong>n→∞</strong>) <i>L</i><sub>n</sub> &frasl;<i>F</i><sub>n</sub> = &radic;5
