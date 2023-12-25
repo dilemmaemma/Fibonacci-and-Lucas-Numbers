@@ -14,7 +14,6 @@ This program calculates Fibonacci numbers up to 22 and Lucas numbers up to 20. I
 - Lucas<sub>n</sub> = Lucas<sub>n - 1</sub> + Lucas<sub>n - 2</sub>
 - Golden Ratio (&phi;) = <math><mfrac><mrow><mi>1</mi><mo>+</mo><mn>&radic;5</mn></mrow><mrow><mo>2</mo></mrow></mfrac></math>
 <br></br>
-- 13&frasl;15
 - <i>F</i><sub>n</sub>&frasl;<i>F</i><sub>n - 1</sub> &cong; &phi;
 - <math><mfrac><mrow><mi><i>L</i></mi><mo><sub>n</sub></mo></mrow><mrow><mi><i>L</i><mo><sub>n - 1</sub></mo></mrow></mfrac></math> &cong; &phi;
 - &phi;<sup>n</sup> &cong; <math><mfrac><mrow><mi><i>L</i><sub>n</sub></mi><mo>+</mo><mn><i>F</i><sub>n</sub> * &radic;5</mn></mrow><mrow><mo>2</mo></mrow></mfrac></math>
